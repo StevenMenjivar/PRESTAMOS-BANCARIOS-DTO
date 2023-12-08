@@ -1,0 +1,15 @@
+package com.PrestamoBancarios.Prestamo.modelo.entidades.enumeradores;
+
+public enum TipoPrestamoEnum {
+
+    CREDITO_HIPOTECARIO,
+    CREDITO_VEHICULO,
+    CREDIGO_PAGO_VENTANILLA,
+    CREDITO_ESTUDIO,
+    CREDITO_EMPLEADO_GOBIERNO,
+    CREDITO_TERRENO,
+    CRDITO_SECTOR_PRIVADO,
+    CREDITO_GARANTIA_DEPOSITO_PLAZO,
+    CREDITO_MULTIDESTINO,
+    CONCILIACION_DEUDAS
+}
